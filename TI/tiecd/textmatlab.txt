@@ -1,0 +1,20 @@
+Text data present in images and video contain useful information for automatic
+ annotation, indexing, and structuring of images.Extraction of this information
+ involves detection, localization, tracking, extraction, enhancement, and 
+recognition of the text from a given image. However, variations of text due to
+ differences in size, style, orientation, and alignment, as well as low image 
+contrast and complex background make the problem of automatic text extraction 
+extremely challenging. TIE(Text-Information-Extraction)System takes an image
+ as output and gives the user the following 
+options :-
+
+1) Point Detection- It detects and displays all interest points in the given image.
+
+2) Edge Detection- It detects and displays all the edges in the given image using 
+Robert's Algorithm.
+
+3) Angular Rotation- It rotates the image at an angle of 45 degree.
+
+4) Segmentation- It displays the image after segmentation has been applied to it.
+
+5) Text Extraction- It highlights the text in the given image.
